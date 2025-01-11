@@ -1,12 +1,30 @@
-## Hey 👋
+## Hi there 👋
 
-I'm Alejandro Arias, a 23-year-old passionate about web development and currently immersed in a Full-Stack Bootcamp. I'm honing my skills in creating dynamic and responsive web applications. Here’s a bit more about me:
+Hey! I'm **Alejandro Arias**, a 23-year-old aspiring **Full-Stack Developer**. Currently, I'm diving deep into the world of web development through a Bootcamp, crafting cool and dynamic web applications.
 
-- 🔭 I’m currently working on: Exciting web projects using HTML, CSS, and JavaScript. I'm also building my first apps with React.
-- 🌱 I’m currently learning: React and delving deeper into the JavaScript ecosystem to enhance my front-end development skills.
-- 👯 I’m looking to collaborate on: Open-source projects, especially those involving web development. I'd love to contribute to projects where I can grow and help others.
-- 🤔 I’m looking for help with: Best practices for scaling React applications and integrating back-end services.
-- 💬 Ask me about: HTML, CSS, JavaScript, or anything about starting in web development. I'm always happy to share what I've learned.
-- 📫 How to reach me: [alejandroasilva02@gmail.com].
+### 🚀 About Me:
+- 🔭 **Currently working on:** Projects using **HTML**, **CSS**, **JavaScript**, and getting my hands dirty with **React**.
+- 🌱 **Learning:** All about **React** and how to build more interactive, modern web apps.
+- 👯 **Looking to collaborate on:** **Open-source** projects or anything exciting where I can contribute and grow.
+- 🤔 **Seeking help with:** Best practices for **React** and connecting front-end projects with back-end services.
+- 💬 **Ask me about:** Getting started with **HTML**, **CSS**, **JavaScript**, or anything related to web development. I'm always happy to help!
+- 📫 **How to reach me:** alejandroasilva02@gmail.com
 
-Feel free to check out my repositories and see what I've been working on. I'm always open to feedback and collaboration!
+---
+
+### 🛠️ Technologies & Tools:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### 📈 GitHub Stats:
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroAriasSL&show_icons=true&theme=radical)
+
+---
+
+Take a look at my repos and feel free to drop any feedback or ideas! 🚀
+
